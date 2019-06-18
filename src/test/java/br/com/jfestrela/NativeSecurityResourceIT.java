@@ -3,7 +3,7 @@ package br.com.jfestrela;
 import io.quarkus.test.junit.SubstrateTest;
 
 @SubstrateTest
-public class NativeGreetingResourceIT extends GreetingResourceTest {
+public class NativeSecurityResourceIT extends SecurityResourceTest {
 
     // Execute the same tests but in native mode.
 }
